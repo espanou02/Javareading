@@ -1,4 +1,4 @@
-package dokimes;
+package iftests;
 
 class IfTest2 {
 	public static void main(String[] args) {
